@@ -1,0 +1,33 @@
+Nome do Grupo: Fadinhas
+Integrantes:
+- Samuel Benjamin
+- Paulo Henrique
+- Idinaldo Oliveira
+
+Descrição:
+
+Resolveremos o problema do Spotify. Atualmente, a plataforma conta com um alto nível de desorganização, 
+os usuários precisam procurar por horas para encontrar o álbum ou música que desejam. 
+
+20 Requisitos Funcionais:
+
+    01. CRUD de Usuário
+    02. CRUD de Àudios (músicas, podcasts, etc.)
+    03. CRUD de Autores (músicos, gravadoras , etc.)
+    04. CRUD de Álbuns
+    05. CRUD de Playlists
+    06. CRUD de Pastas (onde o usuário poderá organizar seus áudios)
+    07. Costumização virtual individual (escolher cores, temas, etc.)
+    08. Recomendações por área (geograficamente falando), gênero musical, idade, etc.
+    09. Compartilhamento de playlists entre amigos
+    10. Criação conjunta de playlists
+    11. Criação conjunta de pastas
+    12. Equalizador de Som (permitir que o usuário mude a forma como o som é reproduzido)
+    13. Recomendações de Áudio com Base no Humor
+    14. Modo para Estudo/Trabalho com Sons de Fundo Personalizados
+    15. Eventos e Shows Ao Vivo Dentro do App
+    16. Salvar excerto de músicas (às vezes uma pessoa gosta *apenas* de uma parte da música)
+    17. Lyrics fora do app (ver a letra da música mesmo usando outros aplicativos)
+    18. Compartilhamento de áudio em redes sociais
+    19. Modo "live" (configuração de áudio que dá a impressão de que o mesmo está sendo tocado em uma sala)
+    20. Modo "Chill Af" (configuração de áudio que dá a sensação de paz)
